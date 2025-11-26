@@ -153,3 +153,6 @@ Total Cost: 750.00
 
 <img width="532" height="412" alt="Screenshot 2025-11-26 101555" src="https://github.com/user-attachments/assets/b107b743-acc3-4db2-a461-8b13d888f200" />
 
+<img width="470" height="399" alt="Screenshot 2025-11-26 101824" src="https://github.com/user-attachments/assets/11e9f140-00ae-42e9-a246-4c2eabb2f451" />
+
+

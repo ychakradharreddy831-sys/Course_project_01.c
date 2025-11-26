@@ -65,8 +65,8 @@ User can perform unlimited bookings
 
 ▶HOW TO RUN THE PROJECT
 Follow these steps:
-Step 1: Save the Code
-Save the full code in a file named:
+Step 1:Save the Code Save
+the full code in a file named:
 transport_logistics.c
 Step 2: Compile the Program
 If using GCC, run:

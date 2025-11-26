@@ -64,14 +64,25 @@ User can perform unlimited bookings
 
 
 ▶HOW TO RUN THE PROJECT
+
 Follow these steps:
+
 Step 1:Save the Code Save
+
 the full code in a file named:
+
 transport_logistics.c
+
 Step 2: Compile the Program
+
 If using GCC, run:
+
 gcc transport_logistics.c -o transport
+
 Step 3: Use the Menu
+
+
+
 You will see:
 ==============================
   MBG Transport & Logistics
@@ -79,13 +90,14 @@ You will see:
 1. Book Passenger Ticket
 2. Send Luggage (Cargo)
 3. Exit
+
+
 Enter option:
 --- Passenger Ticket Booking ---
 Enter Passenger Name: John Doe
 Enter Departure Location: Nairobi
 Enter Destination: Mombasa
 Enter Number of Seats: 2
-
 --- TICKET BOOKED SUCCESSFULLY ---
 Passenger Name: Aravindhsamy
 From: Chennai 
@@ -93,11 +105,15 @@ To: Kadapa
 Seats Booked: 2
 Total Fare: 1000.00
 --------------------------------
+
+
 --- Luggage / Cargo Service ---
 Enter Sender Name: Aravindhsamy
 Enter Pickup Location: Chennai 
 Enter Delivery Location: Kadapa
-Enter Weight of Luggage (kg): 15
+Enter Weight of Luggage (kg): 1
+
+
 
 --- LUGGAGE BOOKED SUCCESSFULLY ---
 Sender Name: Aravindhsamy

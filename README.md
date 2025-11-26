@@ -146,3 +146,8 @@ Weight: 15.00 kg
 Total Cost: 750.00
 
 --------------------------------
+
+
+
+<img width="429" height="191" alt="Screenshot 2025-11-26 101118" src="https://github.com/user-attachments/assets/330940aa-a997-479a-93dc-8ffa7c0ec3db" />
+

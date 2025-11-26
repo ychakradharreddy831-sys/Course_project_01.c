@@ -93,32 +93,56 @@ You will see:
 
 
 Enter option:
+
 --- Passenger Ticket Booking ---
+
 Enter Passenger Name: John Doe
+
 Enter Departure Location: Nairobi
+
+
 Enter Destination: Mombasa
+
 Enter Number of Seats: 2
+
 --- TICKET BOOKED SUCCESSFULLY ---
+
 Passenger Name: Aravindhsamy
+
 From: Chennai 
+
 To: Kadapa
+
 Seats Booked: 2
+
 Total Fare: 1000.00
+
 --------------------------------
 
 
 --- Luggage / Cargo Service ---
+
 Enter Sender Name: Aravindhsamy
+
 Enter Pickup Location: Chennai 
+
+
 Enter Delivery Location: Kadapa
+
 Enter Weight of Luggage (kg): 1
 
 
 
 --- LUGGAGE BOOKED SUCCESSFULLY ---
+
 Sender Name: Aravindhsamy
+
 From: Chennai 
+
 To: Kadapa 
+
 Weight: 15.00 kg
+
 Total Cost: 750.00
+
 --------------------------------

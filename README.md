@@ -1,10 +1,10 @@
 # Course_project_01.c
 transport &amp; logistics
 
-▶project title = Transport & Logistics Management System
+project title = Transport & Logistics Management System
 
 
-▶FUNCTIONAL REQUIREMENTS
+FUNCTIONAL REQUIREMENTS
 Functional requirements describe what the system should do.
 For this project, the system must:
 1. Display a Main Menu
@@ -34,7 +34,7 @@ Accept valid numeric and text inputs
 Show error if invalid menu option is chosen
 
 
-▶FEATURES OF THE SYSTEM
+FEATURES OF THE SYSTEM
 1. User-Friendly Menu
 A simple menu lets users:
 Book passenger tickets

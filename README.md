@@ -63,7 +63,7 @@ Runs in a loop
 User can perform unlimited bookings
 
 
-▶HOW TO RUN THE PROJECT
+HOW TO RUN THE PROJECT
 
 Follow these steps:
 

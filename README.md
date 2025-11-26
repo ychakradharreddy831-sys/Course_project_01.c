@@ -96,12 +96,11 @@ Enter option:
 
 --- Passenger Ticket Booking ---
 
-Enter Passenger Name: John Doe
+Enter Passenger Name:Aravindhsamy
 
-Enter Departure Location: Nairobi
+Enter Departure Location: Chennai 
 
-
-Enter Destination: Mombasa
+Enter Destination: Kadapa
 
 Enter Number of Seats: 2
 
@@ -150,4 +149,7 @@ Total Cost: 750.00
 
 
 <img width="429" height="191" alt="Screenshot 2025-11-26 101118" src="https://github.com/user-attachments/assets/330940aa-a997-479a-93dc-8ffa7c0ec3db" />
+
+
+<img width="532" height="412" alt="Screenshot 2025-11-26 101555" src="https://github.com/user-attachments/assets/b107b743-acc3-4db2-a461-8b13d888f200" />
 
